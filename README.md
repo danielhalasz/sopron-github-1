@@ -1,1 +1,4 @@
-# Sopron Github Repo
+# Sopron Github Repo Tartalom
+
+- elso
+- masodik
