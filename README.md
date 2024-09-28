@@ -1,1 +1,1 @@
-# Ez lesz a fejlec by Dani
+# Ez lesz a fejlec by Isti
